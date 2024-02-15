@@ -1,6 +1,8 @@
 # Simple Notes App
 This is a simple notes app built with React and Django.
 
+# Guide for the project check blog: 
+  https://tech-shrutii.blogspot.com/p/nginx.html
 ## Requirements
 1. Python 
 2. Node.js
@@ -28,3 +30,5 @@ sudo apt-get update sudo apt install nginx
 ```
 ## Output
 ![image](https://github.com/ShruDhoke/Notes-app/assets/114598355/178b840d-9128-4769-a589-0255bbe41bad)
+
+
