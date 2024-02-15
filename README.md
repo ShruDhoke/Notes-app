@@ -26,3 +26,5 @@ Install Nginx reverse proxy to make this application available
 ```
 sudo apt-get update sudo apt install nginx
 ```
+## Output
+![image](https://github.com/ShruDhoke/Notes-app/assets/114598355/178b840d-9128-4769-a589-0255bbe41bad)
